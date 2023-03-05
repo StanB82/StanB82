@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StanB82
-- 👀 I’m interested in learning ServiceNow Certified Administrator
-- 🌱 I’m currently learning ServiceNow Certified Administrator
-- 💞️ I’m looking to collaborate on ServiceNow
+- 👀 I’m interested in learning JavaScript and Nodejs
+- 🌱 I’m currently learning frontend reactjs library
+- 💞️ I’m looking to collaborate on ServiceNow also
 - 📫 How to reach me standevb@gmail.com
 
 <!---
